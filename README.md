@@ -33,6 +33,10 @@ ERP-CRM-Simulation
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Overview](Dashboard.jpg)
+
 ## Overview
 
 The ERP-CRM Simulation project focuses on:
